@@ -3,6 +3,7 @@ import Link  from "next/link"
 import Image from "next/image"
 import logo from "@/images/logo.png"
 import { SignedIn, SignedOut, UserButton,SignInButton } from "@clerk/nextjs"
+import  SearchBar  from "@/components/SearchBar"
 
 
 /*************  ✨ Codeium Command ⭐  *************/
@@ -45,6 +46,12 @@ function Header() {
                     </SignedOut>
 
                 </div>
+            </div>
+
+            {/** Search Bar - Full width on mobile*/}
+            <div className="w-full lg:max-w-2xl">
+                <SearchBar/>
+
             </div>
         </div>
       
