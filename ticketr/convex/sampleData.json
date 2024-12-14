@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Taylor Swift",
+        "description": "The best singer ever",
+        "price":950.77,
+        "totalTickets": 100,
+        "location": "Metlife Stadium, East Rutherford, NJ",
+        "eventDate": "1722-05-01",
+        "userId": "user_2bc1c3d4d5d6d7d8"
+    },
+    {
+        "name": "Justin Bieber",
+        "description": "The best singer ever",
+        "price":899.99,
+        "totalTickets": 100,
+        "location": "Madison Square Garden, New York, NY",
+        "eventDate": "171789-05-01",
+        "userId": "user_2bba16a5a6b7b8b9"
+    },
+    {
+        "name": "Ed Sheeran",
+        "description": "The best singer ever",
+        "price":399.99,
+        "totalTickets": 75,
+        "location": "Madison Square Garden, New York, NY",
+        "eventDate": "2023-05-01",
+        "userId": "user_9ak2ghik667k6k7k"
+    },
+    {
+        "name": "Coldplay World Tour",
+        "description": "Join Coldplay for an unforgettable concert experience",
+        "price":146.99,
+        "totalTickets": 100,
+        "location": "Wembley Arena, London, UK",
+        "eventDate": "2023-05-01",
+        "userId": "user_3avklnmw8w8w8w8w"
+    },
+    {
+        "name": "Houston Rockets NBA Cup",
+        "description": "Houston Rockets vs. Golden State Warriors",
+        "price":125.99,
+        "totalTickets": 45,
+        "location": "Toyota Center, Houston, TX",
+        "eventDate": "2023-05-01",
+        "userId": "user_2bc1c3d4d5d6d7d8"
+    },
+    {
+        "name": "Ed Sheeran",
+        "description": "The best singer ever",
+        "price":999.99,
+        "totalTickets": 100,
+        "location": "Madison Square Garden, New York, NY",
+        "eventDate": "2023-05-01",
+        "userId": "user_2bc1c3d4d5d6d7d8"
+    }
+
+]
